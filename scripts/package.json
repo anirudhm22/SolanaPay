@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "dependencies": {
+        "bs58": "^5.0.0",
+        "dotenv": "^16.0.0"
+    },
+    "devDependencies": {
+        "@types/bs58": "^4.0.1"
+    }
+}
